@@ -80,6 +80,7 @@ body {
         color: #ffffff;
         padding: 8px;
         border-radius: 4px;
+        margin-top: 5px;
 }
 
 .Instagram-logout {
@@ -122,6 +123,10 @@ body {
 }
 .app-download:nth-child(2) {
     background-image: url(./Imgs/pt-br_badge_web_generic.png);
+}
+
+.link-blue:hover{
+    cursor: pointer;
 }
 
 @media (max-width: 1024px) {
